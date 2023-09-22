@@ -1,2 +1,2 @@
 # Data-Structure2
-Non-Linear data structure implementations and applications
+Implementation of advanced Data Structures and Algorithms.
